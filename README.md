@@ -19,7 +19,8 @@ This tool enables rapid website prototyping with clean code, modern UI structure
 
 ## 🖥️ Application Interface
 
-<img width="958" height="502" alt="application-interface" src="https://github.com/user-attachments/assets/a56fa315-adb7-4597-91e5-bd5307627794" />
+<img width="958" height="502" alt="application-interface" src="https://github.com/user-attachments/assets/45f5fef5-efc4-4821-86e0-e4821ec076e6" />
+
 
 ---
 
@@ -114,11 +115,13 @@ display best deals, compare mobiles, and add a contact page.
 ```
 
 ### 🎥 Demo Video
-https://github.com/user-attachments/assets/456b9a8e-4c05-4900-876b-9a23ccfd0125
+
+Uploading AI-Powered Website Demo.mp4…
 
 ### 📸 Screenshots
-<img width="960" height="510" alt="demo-website-preview-1" src="https://github.com/user-attachments/assets/46bd2c8f-e23c-46a3-bdb6-85c292838066" />
-<img width="960" height="504" alt="demo-website-preview-2" src="https://github.com/user-attachments/assets/5148340d-9e7d-4b99-b339-2a66ae057fa2" />
+<img width="960" height="510" alt="demo-website-preview-1" src="https://github.com/user-attachments/assets/7d5fb5b3-e2f8-40e7-a529-4ae720f870fd" />
+
+<img width="960" height="504" alt="demo-website-preview-2" src="https://github.com/user-attachments/assets/3c774c59-bcb3-41e3-afec-5a780c29fcd6" />
 
 ---
 
@@ -137,6 +140,7 @@ Email: ketanspatil2003@gmail.com
 LinkedIn: https://www.linkedin.com/in/patilketan03  
 
 ---
+
 
 
 
