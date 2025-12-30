@@ -51,8 +51,8 @@ This tool enables rapid website prototyping with clean code, modern UI structure
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/vidyasagar2405/website-generator-web-application.git
-cd website-generator-web-application
+git clone https://github.com/patilketan03/ai-website-generator.git
+cd ai-website-generator
 ```
 
 ### 2️⃣ Create Virtual Environment (Optional)
@@ -115,8 +115,7 @@ display best deals, compare mobiles, and add a contact page.
 ```
 
 ### 🎥 Demo Video
-
-Uploading AI-Powered Website Demo.mp4…
+https://github.com/user-attachments/assets/71ca85e9-9106-44ab-a7bc-6af49272c448
 
 ### 📸 Screenshots
 <img width="960" height="510" alt="demo-website-preview-1" src="https://github.com/user-attachments/assets/7d5fb5b3-e2f8-40e7-a529-4ae720f870fd" />
@@ -140,6 +139,7 @@ Email: ketanspatil2003@gmail.com
 LinkedIn: https://www.linkedin.com/in/patilketan03  
 
 ---
+
 
 
 
