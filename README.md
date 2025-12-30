@@ -110,8 +110,7 @@ http://localhost:8501
 ### Sample Prompt
 
 ```
-Create a simple MobilesHub website to show phones, filter by brand,
-display best deals, compare mobiles, and add a contact page.
+Create a simple MobilesHub website to show phones, filter by brand,display best deals, compare mobiles, and add a contact page.
 ```
 
 ### 🎥 Demo Video
@@ -139,6 +138,7 @@ Email: ketanspatil2003@gmail.com
 LinkedIn: https://www.linkedin.com/in/patilketan03  
 
 ---
+
 
 
 
